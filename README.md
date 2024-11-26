@@ -1,4 +1,4 @@
-## Привет, меня зовут я Халид!
+## Привет, меня зовут Халид!
 
 ### :selfie: Обо мне:
 Я Frontend-разработчик :technologist:.
@@ -47,4 +47,5 @@
 
 
 ### 📊 GitHub статистика:
-![](https://github-readme-stats.vercel.app/api?username=Salladin95&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Salladin95&theme=radical&hide_border=true)](https://git.io/streak-stats)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Salladin95&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
